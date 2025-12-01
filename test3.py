@@ -1,7 +1,4 @@
 print("hello world")
 
-#addd new line1
-print("hello world")
-
-#addd new line2
+# lets if pull request works
 print("hello world")
